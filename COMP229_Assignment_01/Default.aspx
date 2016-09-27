@@ -14,7 +14,7 @@
     <div class="container">
         <h1>Ostap Hamarnyk</h1>
         <p class="lead">A student of Centennial College with a strong desire to learn code and passion in technology.</p>
-        <p><a href="About" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+        <p><a href="About" class="btn btn-success btn-lg">Learn more &raquo;</a> or <a href="Contact"><img id="phoneIcon" src="Assets/phone.png" alt="Phone icon" /></a></p>
     </div>
 
     

@@ -10,7 +10,7 @@
     <h2><%:Title%></h2>
     <h3>Ostap Hamarnyk</h3>
     <p>Learn code every day in order to contribute to the software industry, create something cool and make people happy using my app</p>
-    <img src="Assets/profile_photo.jpg" alt="Curent photo of the author of the page" width="300px" />
+    <img id="profilePhoto" src="Assets/profile_photo.jpg" alt="Curent photo of the author of the page" width="300px" />
     <h4>Personal Qualities</h4>
     <p>Hard-working coder that is used to solve problems efficiently in short terms</p>
     <ul>

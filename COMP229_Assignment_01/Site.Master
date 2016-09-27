@@ -61,7 +61,7 @@
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
             <hr />
-            <footer>
+            <footer class="col-md-12">
                 <p>&copy; <%: DateTime.Now.Year %> - Ostap Hamarnyk | Centennial College</p>
             </footer>
         </div>

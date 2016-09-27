@@ -40,3 +40,15 @@ input[type="select"] {
 .jumbotron {
     height: 300px;
 }
+
+#phoneIcon {
+    height:50px;
+}
+
+#contact_main {
+    margin: 0 auto;
+}
+
+.social img {
+    height: 50px;
+}
