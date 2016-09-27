@@ -18,37 +18,41 @@
         <li>Comfort with learning new technics and methodologies</li>
         <li>Good public speaking skills</li>
     </ul>
+    <hr />
     <div class="col-md-4">
         <h2><strong>Web Developer</strong></h2>
+        <hr />
         <p><strong>RBC Royal Bank</strong></p>
         <p>December 2010 - Present</p>
         <p>Responsibilities:</p>
             <ul>
-                <li>Create web pages</li>
-                <li>Develop cross-platform web applications</li>
-                <li>Lead various projects</li>
+                <li>Develop, enhance and maintain multiple interacting applications that consist of a combination of C# services, ASP.NET MVC and WinForms applications</li>
+                <li>Support, manage, maintain SQL based databases and queries . Experience with NHibernate for database object persistence would be a distinct asset</li>
+                <li>Support, manage, enhance, maintain, deploy strategies, focussed on Setup Factory</li>
             </ul>
     </div>
     <div class="col-md-4">
         <h2><strong>Junior Web Developer</strong></h2>
+        <hr />
         <p><strong>Shopify</strong></p>
         <p>December 2008 - December 2010</p>
         <p>Responsibilities:</p>
             <ul>
-                <li>Create web pages</li>
+                <li>Develop digital interfaces following coding standards and best practices</li>
                 <li>Develop cross-platform web applications</li>
-                <li>Testing and debugging</li>
+                <li>Contribute to the continually evolving Shopify technology</li>
             </ul>
     </div>
     <div class="col-md-4">
-        <h2><strong>Q/A Tester</strong></h2>
+        <h2><strong>Jr. Business Analyst</strong></h2>
+        <hr />
         <p><strong>TD Canada Trust</strong></p>
         <p>September 2008 - December 2008</p>
         <p>Responsibilities:</p>
             <ul>
-                <li>Make sure the applications work properly</li>
-                <li>Fix program bugs</li>
-                <li>Test programs</li>
+                <li>Understand the client’s current business model and their desired model to gather requirements.</li>
+                <li>Document the solution with clarity and concision</li>
+                <li>Coordinate between the client, developers, and QA during the lifecycle of the project</li>
             </ul>
     </div>
 

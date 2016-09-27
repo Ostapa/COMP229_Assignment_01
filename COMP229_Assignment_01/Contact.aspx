@@ -28,7 +28,7 @@
         <h3>Contact me if you have any concerns.</h3>
     </div>
     <div class="text-right">
-         <form action="" class="form-horizontal">
+         <form action="Default" class="form-horizontal">
              <div class="form-group">
                 <label class="col-sm-5 control-label">First name:</label>
                  <div class="col-sm-7">
@@ -67,5 +67,4 @@
              </div>
          </form>
         </div>
-    <p><br /></p>
 </asp:Content>
