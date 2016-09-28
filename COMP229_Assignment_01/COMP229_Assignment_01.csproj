@@ -170,6 +170,12 @@
     <Content Include="Account\ResetPasswordConfirmation.aspx" />
     <Content Include="Account\TwoFactorAuthenticationSignIn.aspx" />
     <Content Include="Account\VerifyPhoneNumber.aspx" />
+    <Content Include="Assets\background_image_banner.png" />
+    <Content Include="Assets\facebookIcon.png" />
+    <Content Include="Assets\instagramIcon.png" />
+    <Content Include="Assets\phone.png" />
+    <Content Include="Assets\profile_photo.jpg" />
+    <Content Include="Assets\twitterIcon.png" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
